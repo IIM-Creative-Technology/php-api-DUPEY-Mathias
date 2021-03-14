@@ -42,4 +42,4 @@ l'API fonctionne pour l'instant en local, pour les mêmes raisons.
 -Une de ces méthodes consiste à se rendre sur l'URL "http://127.0.0.1:8000/api/docs" afin de consulter les différentes tables (l'interface graphique est proposée par api platform)
 -L'API étant sécurisée, la première étape est de cliquer sur le bouton "Authorize" en haut à droite et d'y entrer le token généré précédement sur Postman "Bearer [TOKEN]".
 -Une fois authentifié, il est possible de tester les requêtes en choisissant leur nature et la table sur lesquelles les executer.
--La première ligne devrait être la table classe et une requête GET et parceque nous somme identifiés nous pouvons dors et déjà appuyer sur "execute" pour afficher la première page des classes ainsi que les informations qu'elles contiennent, sois la méthode GET en somme.
+-La première ligne devrait être la table classe et une requête GET et parceque nous somme identifiés nous pouvons dors et déjà appuyer sur "Execute" pour afficher la première page des classes ainsi que les informations qu'elles contiennent, sois la méthode GET en somme.
